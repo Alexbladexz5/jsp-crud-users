@@ -1,0 +1,28 @@
+.loading {
+    font-size: 5em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 6000;
+    background-color: #fff;
+}
+
+.edit-form-data > i.fa-edit {
+    color: #1c84c6;
+}
+
+.delete-form-data > i.fa-trash-alt {
+    color: #e41515;
+}
+.edit-form-data:hover{
+    text-decoration: none;
+}
+.edit-form-data{
+    margin-right: 20%;
+}
+
+div.slider {
+    display: none;
+}
